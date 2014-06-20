@@ -29,6 +29,9 @@ http://youtu.be/7s9JePSln-M
   keywords =  {RGB-D,Fusion,3d-reconstruction}
 }
 ```
+Requirements
+============
+    $ sudo apt-get install libqglviewer-dev libglew-dev libboost-system-dev libboost-thread-dev
 
 Installation
 ============
