@@ -31,7 +31,7 @@ http://youtu.be/7s9JePSln-M
 ```
 Requirements
 ============
-    $ sudo apt-get install libqglviewer-dev libglew-dev libboost-system-dev libboost-thread-dev
+    $ sudo apt-get install libopencv-dev libqglviewer-dev libglew-dev libboost-system-dev libboost-thread-dev
 
 Installation
 ============
